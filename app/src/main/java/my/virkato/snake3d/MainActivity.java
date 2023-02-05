@@ -1,14 +1,10 @@
 package my.virkato.snake3d;
 
-import android.content.pm.PackageManager;
 import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import android.view.MotionEvent;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.ActivityCompat;
-import androidx.core.app.NotificationCompat;
-import androidx.core.app.NotificationManagerCompat;
 
 public class MainActivity extends AppCompatActivity {
 
